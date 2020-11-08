@@ -1,0 +1,124 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/Arithmetic expression/build/
+/Problems/Arithmetic expression/out/
+/Problems/Arithmetic expression/out/production/classes/
+/Problems/Assignments/build/
+/Problems/Assignments/out/
+/Problems/Assignments/out/production/classes/
+/Problems/Assignments (1)/build/
+/Problems/Assignments (1)/out/
+/Problems/Assignments (1)/out/production/classes/
+/Problems/Bus tour/out/
+/Problems/Bus tour/out/production/classes/
+/Problems/Check burgs/build/
+/Problems/Check burgs/out/
+/Problems/Check burgs/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/build/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Decrement all/build/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Digits from 0 to 9 in a single line/build/
+/Problems/Digits from 0 to 9 in a single line/out/
+/Problems/Digits from 0 to 9 in a single line/out/production/classes/
+/Problems/Division/build/
+/Problems/Division/out/
+/Problems/Division/out/production/classes/
+/Problems/Even or odd/build/
+/Problems/Even or odd/out/
+/Problems/Even or odd/out/production/classes/
+/Problems/Fill the declaration/build/
+/Problems/Fill the declaration/out/
+/Problems/Fill the declaration/out/production/classes/
+/Problems/Floor-space of the room/build/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/Guest list of a hotel/build/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/Harry Potter/build/
+/Problems/Harry Potter/out/
+/Problems/Harry Potter/out/production/classes/
+/Problems/Hello, Java/build/
+/Problems/Hello, Java/out/
+/Problems/Hello, Java/out/production/classes/
+/Problems/Hello, Java platform/build/
+/Problems/Hello, Java platform/out/
+/Problems/Hello, Java platform/out/production/classes/
+/Problems/Hiring a chef/build/
+/Problems/Hiring a chef/out/
+/Problems/Hiring a chef/out/production/classes/
+/Problems/Incorrect comments/build/
+/Problems/Incorrect comments/out/
+/Problems/Incorrect comments/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Integer part of a number/build/
+/Problems/Integer part of a number/out/
+/Problems/Integer part of a number/out/production/classes/
+/Problems/Invalid declaration of variables/build/
+/Problems/Invalid declaration of variables/out/
+/Problems/Invalid declaration of variables/out/production/classes/
+/Problems/Maximum element divisible by four/out/
+/Problems/Maximum element divisible by four/out/production/classes/
+/Problems/Next even number/build/
+/Problems/Next even number/out/
+/Problems/Next even number/out/production/classes/
+/Problems/Numbers divisible by six/out/
+/Problems/Numbers divisible by six/out/production/classes/
+/Problems/Print strings in the reverse order/build/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Printing each word in a new line/build/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Reading integer numbers/build/
+/Problems/Reading integer numbers/out/
+/Problems/Reading integer numbers/out/production/classes/
+/Problems/Replacing 'a' with 'b'/build/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/Shape/build/
+/Problems/Shape/out/
+/Problems/Shape/out/production/classes/
+/Problems/The (un)-ordered sequence/build/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The forgotten comments/build/
+/Problems/The forgotten comments/out/
+/Problems/The forgotten comments/out/production/classes/
+/Problems/The maximum product of adjacent elements/out/
+/Problems/The maximum product of adjacent elements/out/production/classes/
+/Problems/The sequence/build/
+/Problems/The sequence/out/
+/Problems/The sequence/out/production/classes/
+/Problems/The sum of digits/build/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Problems/The sum of elements/build/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Problems/The sum of integers from a to b/out/
+/Problems/The sum of integers from a to b/out/production/classes/
+/Problems/Three numbers/build/
+/Problems/Three numbers/out/
+/Problems/Three numbers/out/production/classes/
+/Problems/Triangle/build/
+/Problems/Triangle/out/
+/Problems/Triangle/out/production/classes/
+/Problems/Vowel or not/build/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Problems/We need to learn Java/build/
+/Problems/We need to learn Java/out/
+/Problems/We need to learn Java/out/production/classes/
